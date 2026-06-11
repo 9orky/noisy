@@ -1,0 +1,20 @@
+[
+  {
+    "id": "clicky",
+    "label": "Clicky",
+    "file": "samples/kick-drum-clicky.wav",
+    "level": 0.9
+  },
+  {
+    "id": "fis",
+    "label": "Fis",
+    "file": "samples/kick-drum-fis-cut.wav",
+    "level": 0.82
+  },
+  {
+    "id": "dirty-tony",
+    "label": "Dirty Tony",
+    "file": "samples/kick-drum-dirty-tony-cut.wav",
+    "level": 0.78
+  }
+]
